@@ -1,0 +1,112 @@
+
+body {
+    background-color:#FFE1E1;
+    font-family: 'Merriweather', serif;
+    margin:0px;
+    text-align: center;
+}
+
+h1 {
+    font-size:5.625rem;
+    color:#FFE1E1;
+    margin:50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+}
+
+h2 {
+    font-size:2rem;
+    color:#FFE1E1;
+    font-weight:normal;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+    font-size:2rem;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h4 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.skill-row{
+    width:50%;
+    margin:100px auto 100px auto;
+    text-align:left
+}
+
+.top-container{
+    background-color: #90A17D;
+    position:relative;
+    padding-top: 100px;
+}
+
+.middle-container{
+    background-color:#FFE1E1;
+    padding-top:50px;
+    padding-bottom:50px
+}
+
+.bottom-container{
+    background-color:#90A17D;
+    padding-top:20px;
+    padding-bottom:20px
+} 
+
+.top-cloud{
+    position:absolute;
+    right:300px;
+    top:50px
+}
+
+.bottom-cloud{
+    position:absolute;
+    left:300px;
+    bottom:300px;
+}
+
+.sql_image{
+    width:25%;
+    height:25%;
+    float:left;
+    margin-right:30px
+}
+
+.db_image{
+    width:25%;
+    height:25%;
+    float:right;
+    margin-left:30px
+}
+
+.my_image{
+    width:250px;
+    height:250px;
+}
+
+.btn {
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    color: #EEEEEE;
+    font-size: 20px;
+    background: #90A17D;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  .btn:hover {
+    background: #829460;
+    text-decoration: none;
+  }
+
+.footer-link{
+    font-family: 'Montserrat', sans-serif;
+    font-size:20px
+}
+
+.footer{
+    font-size:12px;
+    color:#FFE1E1;
+}
